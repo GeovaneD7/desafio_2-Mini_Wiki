@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
   background-color: #121212;
   font: 1.2rem "Fira Sans", sans-serif;
@@ -49,4 +50,56 @@ footer {
   text-align: center;
   color: black;
   background: #D9D9D9;
-}/*# sourceMappingURL=style.css.map */
+}
+footer p {
+  margin: auto;
+}
+
+/* TODO: Alterar o código para deixar de usar px em tudo e passar a usar vh/vw e %
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(243, 211, 222);
+
+}
+
+main {
+  height: 95vh;
+  margin-left: 3rem;
+}
+
+img {
+  border-radius: 50%;
+  width: 15%;
+  margin-top: 2rem;
+}
+
+
+li {
+  margin-left: 15px;
+}
+
+h2 {
+  color: rgb(2, 48, 48);
+  padding: 10px 0;
+}
+
+p {
+  padding-bottom: 10px;
+
+}
+
+
+
+footer {
+  text-align: center;
+  padding-top: 10px;
+  background-color: rgb(2, 48, 48);
+  color: white;
+  height: 5vh;
+}
+*//*# sourceMappingURL=style.css.map */
